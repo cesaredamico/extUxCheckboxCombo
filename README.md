@@ -1,1 +1,1 @@
-# extUxCheckboxCombo
+# extUxCheckboxComboRepository for Clint Nelissen's Ext.ux.CheckboxCombo (previously hosted at Google Code, which is closing down: https://code.google.com/p/extuxcheckboxcombo/downloads/list).
