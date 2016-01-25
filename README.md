@@ -3,6 +3,8 @@ Repository for Clint Nelissen's Ext.ux.CheckboxCombo (previously hosted at Googl
 
 Original release message on Sencha forums: https://www.sencha.com/forum/showthread.php?93556-Ext.ux.form.CheckboxCombo
 
+Originale README follows:
+
 > This is very similar to Saki's LovCombo extension (http://www.extjs.com/forum/showthread.php?t=32692), however it extends TriggerField rather than ComboBox and uses a CheckboxGroup internally rather than templates.
 > 
 > Features Include: Supports mostly all the same config options as a regular combobox Works fine as a grid editor Supports keyboard navigation Tested in Chrome, FF, and IE8
