@@ -1,1 +1,1 @@
-# extUxCheckboxComboRepository for Clint Nelissen's Ext.ux.CheckboxCombo (previously hosted at Google Code, which is closing down: https://code.google.com/p/extuxcheckboxcombo/downloads/list).
+# extUxCheckboxComboRepository for Clint Nelissen's Ext.ux.CheckboxCombo (previously hosted at Google Code, which is closing down: https://code.google.com/p/extuxcheckboxcombo/downloads/list).Original release message on Sencha forums: https://www.sencha.com/forum/showthread.php?93556-Ext.ux.form.CheckboxCombo
